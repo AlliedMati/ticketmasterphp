@@ -1,0 +1,21 @@
+{
+    "name": "tasktroopers/ticketmasterphp",
+    "description": "Wrapper of TicketMaster API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthijs de Vries",
+            "email": "matthijs@tasktroopers.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "vlucas/phpdotenv": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tasktroopers\\": "src/"
+        }
+    }
+}

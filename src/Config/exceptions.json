@@ -1,0 +1,16 @@
+[{
+    "faultCode": "steps.oauth.v2.FailedToResolveAPIKey",
+    "message": "API key was not provided",
+    "exception": "ApiKeyMissingException"
+},
+{
+    "faultCode": "oauth.v2.InvalidApiKey",
+    "message": "Provided API key is invalid",
+    "exception": "ApiKeyInvalidException"
+},
+{
+    "faultCode": "policies.ratelimit.QuotaViolation",
+    "message": "Rate limit quota violation. Quota limit  exceeded",
+    "exception": "RateLimitException"
+}
+]
