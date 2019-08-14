@@ -3,6 +3,7 @@
     "description": "Wrapper of TicketMaster API",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Matthijs de Vries",
