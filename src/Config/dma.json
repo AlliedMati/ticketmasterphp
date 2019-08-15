@@ -1,0 +1,1082 @@
+[
+    {
+        "id": "200",
+        "name": "All of US"
+    },
+    {
+        "id": "212",
+        "name": "Abilene - Sweetwater"
+    },
+    {
+        "id": "213",
+        "name": "Albany - Schenectady - Troy"
+    },
+    {
+        "id": "214",
+        "name": "Albany, GA"
+    },
+    {
+        "id": "215",
+        "name": "Albuquerque - Santa Fe"
+    },
+    {
+        "id": "216",
+        "name": "Alexandria, LA"
+    },
+    {
+        "id": "217",
+        "name": "Alpena"
+    },
+    {
+        "id": "218",
+        "name": "Amarillo"
+    },
+    {
+        "id": "219",
+        "name": "Anchorage"
+    },
+    {
+        "id": "220",
+        "name": "Atlanta"
+    },
+    {
+        "id": "221",
+        "name": "Augusta"
+    },
+    {
+        "id": "222",
+        "name": "Austin"
+    },
+    {
+        "id": "223",
+        "name": "Bakersfield"
+    },
+    {
+        "id": "224",
+        "name": "Baltimore"
+    },
+    {
+        "id": "225",
+        "name": "Bangor"
+    },
+    {
+        "id": "226",
+        "name": "Baton Rouge"
+    },
+    {
+        "id": "227",
+        "name": "Beaumont - Port Arthur"
+    },
+    {
+        "id": "228",
+        "name": "Bend, OR"
+    },
+    {
+        "id": "229",
+        "name": "Billings"
+    },
+    {
+        "id": "230",
+        "name": "Biloxi - Gulfport"
+    },
+    {
+        "id": "231",
+        "name": "Binghamton"
+    },
+    {
+        "id": "232",
+        "name": "Birmingham (Anniston and Tuscaloosa)"
+    },
+    {
+        "id": "233",
+        "name": "Bluefield - Beckley - Oak Hill"
+    },
+    {
+        "id": "234",
+        "name": "Boise"
+    },
+    {
+        "id": "235",
+        "name": "Boston (Manchester)"
+    },
+    {
+        "id": "236",
+        "name": "Bowling Green"
+    },
+    {
+        "id": "237",
+        "name": "Buffalo"
+    },
+    {
+        "id": "238",
+        "name": "Burlington - Plattsburgh"
+    },
+    {
+        "id": "239",
+        "name": "Butte - Bozeman"
+    },
+    {
+        "id": "240",
+        "name": "Casper - Riverton"
+    },
+    {
+        "id": "241",
+        "name": "Cedar Rapids - Waterloo & Dubuque"
+    },
+    {
+        "id": "242",
+        "name": "Champaign & Springfield - Decatur"
+    },
+    {
+        "id": "243",
+        "name": "Charleston, SC"
+    },
+    {
+        "id": "244",
+        "name": "Charleston-Huntington"
+    },
+    {
+        "id": "245",
+        "name": "Charlotte"
+    },
+    {
+        "id": "246",
+        "name": "Charlottesville"
+    },
+    {
+        "id": "247",
+        "name": "Chattanooga"
+    },
+    {
+        "id": "248",
+        "name": "Cheyenne - Scottsbluff"
+    },
+    {
+        "id": "249",
+        "name": "Chicago"
+    },
+    {
+        "id": "250",
+        "name": "Chico - Redding"
+    },
+    {
+        "id": "251",
+        "name": "Cincinnati"
+    },
+    {
+        "id": "252",
+        "name": "Clarksburg - Weston"
+    },
+    {
+        "id": "253",
+        "name": "Cleveland"
+    },
+    {
+        "id": "254",
+        "name": "Colorado Springs - Pueblo"
+    },
+    {
+        "id": "255",
+        "name": "Columbia - Jefferson City"
+    },
+    {
+        "id": "256",
+        "name": "Columbia, SC"
+    },
+    {
+        "id": "257",
+        "name": "Columbus - Tupelo - West Point"
+    },
+    {
+        "id": "258",
+        "name": "Columbus, GA"
+    },
+    {
+        "id": "259",
+        "name": "Columbus, OH"
+    },
+    {
+        "id": "260",
+        "name": "Corpus Christi"
+    },
+    {
+        "id": "261",
+        "name": "Dallas - Fort Worth"
+    },
+    {
+        "id": "262",
+        "name": "Davenport - Rock Island - Moline"
+    },
+    {
+        "id": "263",
+        "name": "Dayton"
+    },
+    {
+        "id": "264",
+        "name": "Denver"
+    },
+    {
+        "id": "265",
+        "name": "Des Moines - Ames"
+    },
+    {
+        "id": "266",
+        "name": "Detroit"
+    },
+    {
+        "id": "267",
+        "name": "Dothan"
+    },
+    {
+        "id": "268",
+        "name": "Duluth - Superior"
+    },
+    {
+        "id": "269",
+        "name": "El Paso"
+    },
+    {
+        "id": "270",
+        "name": "Elmira"
+    },
+    {
+        "id": "271",
+        "name": "Erie"
+    },
+    {
+        "id": "272",
+        "name": "Eugene"
+    },
+    {
+        "id": "273",
+        "name": "Eureka"
+    },
+    {
+        "id": "274",
+        "name": "Evansville"
+    },
+    {
+        "id": "275",
+        "name": "Fairbanks"
+    },
+    {
+        "id": "276",
+        "name": "Fargo - Valley City"
+    },
+    {
+        "id": "277",
+        "name": "Flint - Saginaw - Bay City"
+    },
+    {
+        "id": "278",
+        "name": "Florence - Myrtle Beach"
+    },
+    {
+        "id": "279",
+        "name": "Fort Myers - Naples"
+    },
+    {
+        "id": "280",
+        "name": "Fort Smith - Fayetteville - Springdale - Rogers"
+    },
+    {
+        "id": "281",
+        "name": "Fort Wayne"
+    },
+    {
+        "id": "282",
+        "name": "Fresno - Visalia"
+    },
+    {
+        "id": "283",
+        "name": "Gainesville"
+    },
+    {
+        "id": "284",
+        "name": "Glendive"
+    },
+    {
+        "id": "285",
+        "name": "Grand Junction - Montrose"
+    },
+    {
+        "id": "286",
+        "name": "Grand Rapids - Kalamazoo - Battle Creek"
+    },
+    {
+        "id": "287",
+        "name": "Great Falls"
+    },
+    {
+        "id": "288",
+        "name": "Green Bay - Appleton"
+    },
+    {
+        "id": "289",
+        "name": "Greensboro - High Point - Winston-Salem"
+    },
+    {
+        "id": "290",
+        "name": "Greenville - New Bern - Washington"
+    },
+    {
+        "id": "291",
+        "name": "Greenville - Spartansburg - Asheville - Anderson"
+    },
+    {
+        "id": "292",
+        "name": "Greenwood - Greenville"
+    },
+    {
+        "id": "293",
+        "name": "Harlingen - Weslaco - Brownsville - McAllen"
+    },
+    {
+        "id": "294",
+        "name": "Harrisburg - Lancaster - Lebanon - York"
+    },
+    {
+        "id": "295",
+        "name": "Harrisonburg"
+    },
+    {
+        "id": "296",
+        "name": "Hartford & New Haven"
+    },
+    {
+        "id": "297",
+        "name": "Hattiesburg - Laurel"
+    },
+    {
+        "id": "298",
+        "name": "Helena"
+    },
+    {
+        "id": "299",
+        "name": "Honolulu"
+    },
+    {
+        "id": "300",
+        "name": "Houston"
+    },
+    {
+        "id": "301",
+        "name": "Huntsville - Decatur (Florence)"
+    },
+    {
+        "id": "302",
+        "name": "Idaho Falls - Pocatello"
+    },
+    {
+        "id": "303",
+        "name": "Indianapolis"
+    },
+    {
+        "id": "304",
+        "name": "Jackson, MS"
+    },
+    {
+        "id": "305",
+        "name": "Jackson, TN"
+    },
+    {
+        "id": "306",
+        "name": "Jacksonville"
+    },
+    {
+        "id": "307",
+        "name": "Johnstown - Altoona"
+    },
+    {
+        "id": "308",
+        "name": "Jonesboro"
+    },
+    {
+        "id": "309",
+        "name": "Joplin - Pittsburg"
+    },
+    {
+        "id": "310",
+        "name": "Juneau"
+    },
+    {
+        "id": "311",
+        "name": "Kansas City"
+    },
+    {
+        "id": "312",
+        "name": "Knoxville"
+    },
+    {
+        "id": "313",
+        "name": "La Crosse - Eau Claire"
+    },
+    {
+        "id": "314",
+        "name": "Lafayette, IN"
+    },
+    {
+        "id": "315",
+        "name": "Lafayette, LA"
+    },
+    {
+        "id": "316",
+        "name": "Lake Charles"
+    },
+    {
+        "id": "317",
+        "name": "Lansing"
+    },
+    {
+        "id": "318",
+        "name": "Laredo"
+    },
+    {
+        "id": "319",
+        "name": "Las Vegas"
+    },
+    {
+        "id": "320",
+        "name": "Lexington"
+    },
+    {
+        "id": "321",
+        "name": "Lima"
+    },
+    {
+        "id": "322",
+        "name": "Lincoln & Hastings - Kearney"
+    },
+    {
+        "id": "323",
+        "name": "Little Rock - Pine Bluff"
+    },
+    {
+        "id": "324",
+        "name": "Los Angeles"
+    },
+    {
+        "id": "325",
+        "name": "Louisville"
+    },
+    {
+        "id": "326",
+        "name": "Lubbock"
+    },
+    {
+        "id": "327",
+        "name": "Macon"
+    },
+    {
+        "id": "328",
+        "name": "Madison"
+    },
+    {
+        "id": "329",
+        "name": "Mankato"
+    },
+    {
+        "id": "330",
+        "name": "Marquette"
+    },
+    {
+        "id": "331",
+        "name": "Medford - Klamath Falls"
+    },
+    {
+        "id": "332",
+        "name": "Memphis"
+    },
+    {
+        "id": "333",
+        "name": "Meridian"
+    },
+    {
+        "id": "334",
+        "name": "Miami - Fort Lauderdale"
+    },
+    {
+        "id": "335",
+        "name": "Milwaukee"
+    },
+    {
+        "id": "336",
+        "name": "Minneapolis - Saint Paul"
+    },
+    {
+        "id": "337",
+        "name": "Minot - Bismarck - Dickinson"
+    },
+    {
+        "id": "338",
+        "name": "Missoula"
+    },
+    {
+        "id": "339",
+        "name": "Mobile - Pensacola (Fort Walton Beach)"
+    },
+    {
+        "id": "340",
+        "name": "Monroe - El Dorado"
+    },
+    {
+        "id": "341",
+        "name": "Monterey - Salinas"
+    },
+    {
+        "id": "342",
+        "name": "Montgomery (Selma)"
+    },
+    {
+        "id": "343",
+        "name": "Nashville"
+    },
+    {
+        "id": "344",
+        "name": "New Orleans"
+    },
+    {
+        "id": "345",
+        "name": "New York"
+    },
+    {
+        "id": "346",
+        "name": "Norfolk - Portsmouth - Newport News"
+    },
+    {
+        "id": "347",
+        "name": "North Platte"
+    },
+    {
+        "id": "348",
+        "name": "Odessa - Midland"
+    },
+    {
+        "id": "349",
+        "name": "Oklahoma City"
+    },
+    {
+        "id": "350",
+        "name": "Omaha"
+    },
+    {
+        "id": "351",
+        "name": "Orlando - Daytona Beach - Melbourne"
+    },
+    {
+        "id": "352",
+        "name": "Ottumwa - Kirksville"
+    },
+    {
+        "id": "353",
+        "name": "Paducah - Cape Girardeau - Harrisburg - Mt Vernon"
+    },
+    {
+        "id": "354",
+        "name": "Palm Springs"
+    },
+    {
+        "id": "355",
+        "name": "Panama City"
+    },
+    {
+        "id": "356",
+        "name": "Parkersburg"
+    },
+    {
+        "id": "357",
+        "name": "Peoria - Bloomington"
+    },
+    {
+        "id": "358",
+        "name": "Philadelphia"
+    },
+    {
+        "id": "359",
+        "name": "Phoenix"
+    },
+    {
+        "id": "360",
+        "name": "Pittsburgh"
+    },
+    {
+        "id": "361",
+        "name": "Portland - Auburn"
+    },
+    {
+        "id": "362",
+        "name": "Portland, OR"
+    },
+    {
+        "id": "363",
+        "name": "Presque Isle"
+    },
+    {
+        "id": "364",
+        "name": "Providence - New Bedford"
+    },
+    {
+        "id": "365",
+        "name": "Quincy - Hannibal - Keokuk"
+    },
+    {
+        "id": "366",
+        "name": "Raleigh - Durham (Fayetteville)"
+    },
+    {
+        "id": "367",
+        "name": "Rapid City"
+    },
+    {
+        "id": "368",
+        "name": "Reno"
+    },
+    {
+        "id": "369",
+        "name": "Richmond - Petersburg"
+    },
+    {
+        "id": "370",
+        "name": "Roanoke - Lynchburg"
+    },
+    {
+        "id": "371",
+        "name": "Rochester - Mason City - Austin"
+    },
+    {
+        "id": "372",
+        "name": "Rochester, NY"
+    },
+    {
+        "id": "373",
+        "name": "Rockford"
+    },
+    {
+        "id": "374",
+        "name": "Sacramento - Stockton - Modesto"
+    },
+    {
+        "id": "375",
+        "name": "Saint Joseph"
+    },
+    {
+        "id": "376",
+        "name": "Saint Louis"
+    },
+    {
+        "id": "377",
+        "name": "Salisbury"
+    },
+    {
+        "id": "378",
+        "name": "Salt Lake City"
+    },
+    {
+        "id": "379",
+        "name": "San Angelo"
+    },
+    {
+        "id": "380",
+        "name": "San Antonio"
+    },
+    {
+        "id": "381",
+        "name": "San Diego"
+    },
+    {
+        "id": "382",
+        "name": "San Francisco - Oakland - San Jose"
+    },
+    {
+        "id": "383",
+        "name": "Santa Barbara - Santa Maria - San Luis Obispo"
+    },
+    {
+        "id": "384",
+        "name": "Savannah"
+    },
+    {
+        "id": "385",
+        "name": "Seattle - Tacoma"
+    },
+    {
+        "id": "386",
+        "name": "Sherman - Ada"
+    },
+    {
+        "id": "387",
+        "name": "Shreveport"
+    },
+    {
+        "id": "388",
+        "name": "Sioux City"
+    },
+    {
+        "id": "389",
+        "name": "Sioux Falls (Mitchell)"
+    },
+    {
+        "id": "390",
+        "name": "South Bend - Elkhart"
+    },
+    {
+        "id": "391",
+        "name": "Spokane"
+    },
+    {
+        "id": "392",
+        "name": "Springfield - Holyoke"
+    },
+    {
+        "id": "393",
+        "name": "Springfield, MO"
+    },
+    {
+        "id": "394",
+        "name": "Syracuse"
+    },
+    {
+        "id": "395",
+        "name": "Tallahassee - Thomasville"
+    },
+    {
+        "id": "396",
+        "name": "Tampa - Saint Petersburg (Sarasota)"
+    },
+    {
+        "id": "397",
+        "name": "Terre Haute"
+    },
+    {
+        "id": "398",
+        "name": "Toledo"
+    },
+    {
+        "id": "399",
+        "name": "Topeka"
+    },
+    {
+        "id": "400",
+        "name": "Traverse City - Cadillac"
+    },
+    {
+        "id": "401",
+        "name": "Tri-Cities, TN-VA"
+    },
+    {
+        "id": "402",
+        "name": "Tucson (Sierra Vista)"
+    },
+    {
+        "id": "403",
+        "name": "Tulsa"
+    },
+    {
+        "id": "404",
+        "name": "Twin Falls"
+    },
+    {
+        "id": "405",
+        "name": "Tyler - Longview (Lufkin & Nacogdoches)"
+    },
+    {
+        "id": "406",
+        "name": "Utica"
+    },
+    {
+        "id": "407",
+        "name": "Victoria"
+    },
+    {
+        "id": "408",
+        "name": "Waco - Temple - Bryan"
+    },
+    {
+        "id": "409",
+        "name": "Washington DC (Hagerstown)"
+    },
+    {
+        "id": "410",
+        "name": "Watertown"
+    },
+    {
+        "id": "411",
+        "name": "Wausau - Rhinelander"
+    },
+    {
+        "id": "412",
+        "name": "West Palm Beach - Fort Pierce"
+    },
+    {
+        "id": "413",
+        "name": "Wheeling - Steubenville"
+    },
+    {
+        "id": "414",
+        "name": "Wichita - Hutchinson"
+    },
+    {
+        "id": "415",
+        "name": "Wichita Falls & Lawton"
+    },
+    {
+        "id": "416",
+        "name": "Wilkes Barre - Scranton"
+    },
+    {
+        "id": "417",
+        "name": "Wilmington"
+    },
+    {
+        "id": "418",
+        "name": "Yakima - Pasco - Richland - Kennewick"
+    },
+    {
+        "id": "419",
+        "name": "Youngstown"
+    },
+    {
+        "id": "420",
+        "name": "Yuma - El Centro"
+    },
+    {
+        "id": "421",
+        "name": "Zanesville"
+    },
+    {
+        "id": "422",
+        "name": "Northern New Jersey"
+    },
+    {
+        "id": "500",
+        "name": "All of Canada"
+    },
+    {
+        "id": "501",
+        "name": "Barrie-Orillia"
+    },
+    {
+        "id": "502",
+        "name": "Belleville-Peterborough"
+    },
+    {
+        "id": "503",
+        "name": "Owen Sound"
+    },
+    {
+        "id": "504",
+        "name": "Burnaby-New Westminster-Surrey"
+    },
+    {
+        "id": "505",
+        "name": "Calgary-Banff"
+    },
+    {
+        "id": "506",
+        "name": "Edmonton"
+    },
+    {
+        "id": "507",
+        "name": "Fraser Valley"
+    },
+    {
+        "id": "508",
+        "name": "Hamilton-Niagara"
+    },
+    {
+        "id": "509",
+        "name": "Kitchener-Waterloo"
+    },
+    {
+        "id": "510",
+        "name": "London-Sarnia"
+    },
+    {
+        "id": "511",
+        "name": "Mississauga-Oakville"
+    },
+    {
+        "id": "512",
+        "name": "Newfoundland"
+    },
+    {
+        "id": "513",
+        "name": "NWT"
+    },
+    {
+        "id": "514",
+        "name": "New Brunswick"
+    },
+    {
+        "id": "515",
+        "name": "Northern Ontario"
+    },
+    {
+        "id": "516",
+        "name": "Nova Scotia"
+    },
+    {
+        "id": "517",
+        "name": "Nunavit"
+    },
+    {
+        "id": "518",
+        "name": "Okanagan-Kootenays"
+    },
+    {
+        "id": "519",
+        "name": "Ottawa-Gatineau"
+    },
+    {
+        "id": "520",
+        "name": "PEI"
+    },
+    {
+        "id": "521",
+        "name": "Prince George-North"
+    },
+    {
+        "id": "522",
+        "name": "Montreal and Surrounding Area"
+    },
+    {
+        "id": "523",
+        "name": "Red Deer"
+    },
+    {
+        "id": "524",
+        "name": "Saskatchewan"
+    },
+    {
+        "id": "527",
+        "name": "Toronto"
+    },
+    {
+        "id": "528",
+        "name": "Vancouver"
+    },
+    {
+        "id": "529",
+        "name": "Sunshine Coast-Islands"
+    },
+    {
+        "id": "530",
+        "name": "Winnipeg-Brandon"
+    },
+    {
+        "id": "531",
+        "name": "Yukon"
+    },
+    {
+        "id": "601",
+        "name": "All of United Kingdom"
+    },
+    {
+        "id": "602",
+        "name": "London"
+    },
+    {
+        "id": "603",
+        "name": "South"
+    },
+    {
+        "id": "604",
+        "name": "Midlands and Central"
+    },
+    {
+        "id": "605",
+        "name": "Wales and North West"
+    },
+    {
+        "id": "606",
+        "name": "North and North East"
+    },
+    {
+        "id": "607",
+        "name": "Scotland"
+    },
+    {
+        "id": "608",
+        "name": "All of Ireland"
+    },
+    {
+        "id": "609",
+        "name": "Northern Ireland"
+    },
+    {
+        "id": "610",
+        "name": "Germany"
+    },
+    {
+        "id": "611",
+        "name": "Netherlands"
+    },
+    {
+        "id": "612",
+        "name": "Sweden"
+    },
+    {
+        "id": "613",
+        "name": "Turkey"
+    },
+    {
+        "id": "701",
+        "name": "All of Australia"
+    },
+    {
+        "id": "702",
+        "name": "New South Wales\/Australian Capital Territory"
+    },
+    {
+        "id": "703",
+        "name": "Queensland"
+    },
+    {
+        "id": "704",
+        "name": "Western Australia"
+    },
+    {
+        "id": "705",
+        "name": "Victoria\/Tasmania"
+    },
+    {
+        "id": "750",
+        "name": "All of New Zealand"
+    },
+    {
+        "id": "751",
+        "name": "North Island"
+    },
+    {
+        "id": "752",
+        "name": "South Island"
+    },
+    {
+        "id": "801",
+        "name": "All of Mexico"
+    },
+    {
+        "id": "802",
+        "name": "Mexico City and Metropolitan Area"
+    },
+    {
+        "id": "803",
+        "name": "Monterrey"
+    },
+    {
+        "id": "804",
+        "name": "Guadalajara"
+    },
+    {
+        "id": "901",
+        "name": "All of Spain"
+    },
+    {
+        "id": "902",
+        "name": "Barcelona"
+    },
+    {
+        "id": "903",
+        "name": "Madrid"
+    }
+]

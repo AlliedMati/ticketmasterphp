@@ -40,7 +40,7 @@ class Client
      * @param string $value
      * @return void
      */
-    public function setApiKey(string $value)
+    public function setApiKey(string $value): void
     {
         $this->apiKey = $value;
     }
@@ -68,7 +68,7 @@ class Client
      * @param string $value
      * @return void
      */
-    public function setApiRoot(string $value)
+    public function setApiRoot(string $value): void
     {
         $this->apiRoot = $value;
     }
@@ -96,7 +96,7 @@ class Client
      * @param string $value
      * @return void
      */
-    public function setApiRootSuffix(string $value)
+    public function setApiRootSuffix(string $value): void
     {
         $this->apiRootSuffix = $value;
     }
@@ -124,7 +124,7 @@ class Client
      * @param int $value
      * @return void
      */
-    public function setRateLimit(int $value)
+    public function setRateLimit(int $value): void
     {
         $this->rateLimit = $value;
     }
@@ -153,7 +153,7 @@ class Client
      * @param int $value
      * @return void
      */
-    public function setRateLimitAvailable(int $value)
+    public function setRateLimitAvailable(int $value): void
     {
         $this->rateLimitAvailable = $value;
     }
@@ -182,7 +182,7 @@ class Client
      * @param DateTime $value
      * @return void
      */
-    public function setRateLimitReset(\DateTime $value)
+    public function setRateLimitReset(\DateTime $value): void
     {
         $this->rateLimitReset = $value;
     }

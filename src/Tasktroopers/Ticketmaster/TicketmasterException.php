@@ -30,7 +30,7 @@ class TicketmasterException
      * @param string $value
      * @return void
      */
-    public function setFaultCode(string $value)
+    public function setFaultCode(string $value): void
     {
         $this->faultCode = $value;
     }
@@ -58,7 +58,7 @@ class TicketmasterException
      * @param string $value
      * @return void
      */
-    public function setMessage(string $value)
+    public function setMessage(string $value): void
     {
         $this->message = $value;
     }
@@ -86,7 +86,7 @@ class TicketmasterException
      * @param string $value
      * @return void
      */
-    public function setExceptionClass(string $value)
+    public function setExceptionClass(string $value): void
     {
         $this->exceptionClass = $value;
     }
@@ -108,7 +108,7 @@ class TicketmasterException
      *
      * @return void
      */
-    public function throw()
+    public function throw(): void
     {
         throw new $this->getExceptionClass($this->getMessage());
     }

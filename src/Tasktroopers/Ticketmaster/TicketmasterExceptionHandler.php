@@ -22,16 +22,16 @@ class TicketmasterExceptionHandler
      */
     public function getExceptions(): array
     {
-        return $this->$exceptions;
+        return $this->exceptions;
     }
 
     /**
-     * Sets list of Ticketmaster specific exceptions
+     * Add exception to list of Ticketmaster specific exceptions
      *
      * @param Tasktroopers\Ticketmaster\TicketmasterException $value array of strings
      * @return void
      */
-    public function addException(TicketmasterException $value)
+    public function addException(TicketmasterException $value): void
     {
         $this->exceptions[] = $value;
     }

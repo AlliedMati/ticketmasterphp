@@ -32,7 +32,7 @@ class ResponseHandler
      * @param string $value json input data
      * @return void
      */
-    public function setBody(string $value)
+    public function setBody(string $value): void
     {
         if ($value != '') {
             $this->body = json_decode($value, true);
@@ -64,7 +64,7 @@ class ResponseHandler
      * @param int $value
      * @return void
      */
-    public function setStatusCode(int $value)
+    public function setStatusCode(int $value): void
     {
         $this->statusCode = $value;
     }
@@ -92,7 +92,7 @@ class ResponseHandler
      * @param int $value
      * @return void
      */
-    public function setRateLimit(int $value)
+    public function setRateLimit(int $value): void
     {
         $this->rateLimit = $value;
     }
@@ -121,7 +121,7 @@ class ResponseHandler
      * @param int $value
      * @return void
      */
-    public function setRateLimitAvailable(int $value)
+    public function setRateLimitAvailable(int $value): void
     {
         $this->rateLimitAvailable = $value;
     }
@@ -150,7 +150,7 @@ class ResponseHandler
      * @param integer $value a unix timestamp
      * @return void
      */
-    public function setRateLimitReset(int $value)
+    public function setRateLimitReset(int $value): void
     {
         // convert unix timestamp to a DateTime object
         $this->rateLimitReset = new \DateTime('@' . $value);
@@ -179,7 +179,7 @@ class ResponseHandler
      * @param bool $value
      * @return void
      */
-    public function setIsValidApiKey(bool $value)
+    public function setIsValidApiKey(bool $value): void
     {
         $this->isValidApiKey = $value;
     }
@@ -207,7 +207,7 @@ class ResponseHandler
      * @param bool $value
      * @return void
      */
-    public function setIsValidApiUri(bool $value)
+    public function setIsValidApiUri(bool $value): void
     {
         $this->isValidApiUri = $value;
     }
@@ -261,7 +261,7 @@ class ResponseHandler
      * @param GuzzleHttp\Psr7\Response $response
      * @return void
      */
-    public function setRateLimitInfo(\GuzzleHttp\Psr7\Response $response)
+    public function setRateLimitInfo(\GuzzleHttp\Psr7\Response $response): void
     {
         // the overal 24hr rate limit
         if ($response->hasHeader('Rate-Limit')) {

@@ -35,7 +35,7 @@ class RequestHandler
      * @param Tasktroopers\Ticketmaster\Client $value
      * @return void
      */
-    public function setClient(Client $value)
+    public function setClient(Client $value): void
     {
         $this->client = $value;
     }
@@ -108,7 +108,7 @@ class RequestHandler
      *
      * @return void
      */
-    private function updateRateLimit($response)
+    private function updateRateLimit($response): void
     {
         $client = $this->getClient();
 

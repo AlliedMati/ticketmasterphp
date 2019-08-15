@@ -34,7 +34,7 @@ class TestConnection
      * @param Tasktroopers\Ticketmaster\Client $value
      * @return void
      */
-    public function setClient(Client $value)
+    public function setClient(Client $value): void
     {
         $this->client = $value;
     }
@@ -62,7 +62,7 @@ class TestConnection
      * @param Tasktroopers\Ticketmaster\ResponseHandler $value
      * @return void
      */
-    public function setResponse(ResponseHandler $value)
+    public function setResponse(ResponseHandler $value): void
     {
         $this->response = $value;
     }

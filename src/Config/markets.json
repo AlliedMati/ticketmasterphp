@@ -1,0 +1,417 @@
+[
+    {
+        "id": "1",
+        "market": "Birmingham & More",
+        "region": "USA"
+    },
+    {
+        "id": "2",
+        "market": "Charlotte",
+        "region": "USA"
+    },
+    {
+        "id": "3",
+        "market": "Chicagoland & Northern IL",
+        "region": "USA"
+    },
+    {
+        "id": "4",
+        "market": "Cincinnati & Dayton",
+        "region": "USA"
+    },
+    {
+        "id": "5",
+        "market": "Dallas - Fort Worth & More",
+        "region": "USA"
+    },
+    {
+        "id": "6",
+        "market": "Denver & More",
+        "region": "USA"
+    },
+    {
+        "id": "7",
+        "market": "Detroit, Toledo & More",
+        "region": "USA"
+    },
+    {
+        "id": "8",
+        "market": "El Paso & New Mexico",
+        "region": "USA"
+    },
+    {
+        "id": "9",
+        "market": "Grand Rapids & More",
+        "region": "USA"
+    },
+    {
+        "id": "10",
+        "market": "Greater Atlanta Area",
+        "region": "USA"
+    },
+    {
+        "id": "11",
+        "market": "Greater Boston Area",
+        "region": "USA"
+    },
+    {
+        "id": "12",
+        "market": "Cleveland, Youngstown & More",
+        "region": "USA"
+    },
+    {
+        "id": "13",
+        "market": "Greater Columbus Area",
+        "region": "USA"
+    },
+    {
+        "id": "14",
+        "market": "Greater Las Vegas Area",
+        "region": "USA"
+    },
+    {
+        "id": "15",
+        "market": "Greater Miami Area",
+        "region": "USA"
+    },
+    {
+        "id": "16",
+        "market": "Minneapolis\/St. Paul & More",
+        "region": "USA"
+    },
+    {
+        "id": "17",
+        "market": "Greater Orlando Area",
+        "region": "USA"
+    },
+    {
+        "id": "18",
+        "market": "Greater Philadelphia Area",
+        "region": "USA"
+    },
+    {
+        "id": "19",
+        "market": "Greater Pittsburgh Area",
+        "region": "USA"
+    },
+    {
+        "id": "20",
+        "market": "Greater San Diego Area",
+        "region": "USA"
+    },
+    {
+        "id": "21",
+        "market": "Greater Tampa Area",
+        "region": "USA"
+    },
+    {
+        "id": "22",
+        "market": "Houston & More",
+        "region": "USA"
+    },
+    {
+        "id": "23",
+        "market": "Indianapolis & More",
+        "region": "USA"
+    },
+    {
+        "id": "24",
+        "market": "Iowa",
+        "region": "USA"
+    },
+    {
+        "id": "25",
+        "market": "Jacksonville & More",
+        "region": "USA"
+    },
+    {
+        "id": "26",
+        "market": "Kansas City & More",
+        "region": "USA"
+    },
+    {
+        "id": "27",
+        "market": "Greater Los Angeles Area",
+        "region": "USA"
+    },
+    {
+        "id": "28",
+        "market": "Louisville & Lexington",
+        "region": "USA"
+    },
+    {
+        "id": "29",
+        "market": "Memphis, Little Rock & More",
+        "region": "USA"
+    },
+    {
+        "id": "30",
+        "market": "Milwaukee & WI",
+        "region": "USA"
+    },
+    {
+        "id": "31",
+        "market": "Nashville, Knoxville & More",
+        "region": "USA"
+    },
+    {
+        "id": "33",
+        "market": "New England",
+        "region": "USA"
+    },
+    {
+        "id": "34",
+        "market": "New Orleans & More",
+        "region": "USA"
+    },
+    {
+        "id": "35",
+        "market": "New York\/Tri-State Area",
+        "region": "USA"
+    },
+    {
+        "id": "36",
+        "market": "Phoenix & Tucson",
+        "region": "USA"
+    },
+    {
+        "id": "37",
+        "market": "Portland & More",
+        "region": "USA"
+    },
+    {
+        "id": "38",
+        "market": "Raleigh & Durham",
+        "region": "USA"
+    },
+    {
+        "id": "39",
+        "market": "Saint Louis & More",
+        "region": "USA"
+    },
+    {
+        "id": "40",
+        "market": "San Antonio & Austin",
+        "region": "USA"
+    },
+    {
+        "id": "41",
+        "market": "N. California\/N. Nevada",
+        "region": "USA"
+    },
+    {
+        "id": "42",
+        "market": "Greater Seattle Area",
+        "region": "USA"
+    },
+    {
+        "id": "43",
+        "market": "North & South Dakota",
+        "region": "USA"
+    },
+    {
+        "id": "44",
+        "market": "Upstate New York",
+        "region": "USA"
+    },
+    {
+        "id": "45",
+        "market": "Utah & Montana",
+        "region": "USA"
+    },
+    {
+        "id": "46",
+        "market": "Virginia",
+        "region": "USA"
+    },
+    {
+        "id": "47",
+        "market": "Washington, DC and Maryland",
+        "region": "USA"
+    },
+    {
+        "id": "48",
+        "market": "West Virginia",
+        "region": "USA"
+    },
+    {
+        "id": "49",
+        "market": "Hawaii",
+        "region": "USA"
+    },
+    {
+        "id": "50",
+        "market": "Alaska",
+        "region": "USA"
+    },
+    {
+        "id": "52",
+        "market": "Nebraska",
+        "region": "USA"
+    },
+    {
+        "id": "53",
+        "market": "Springfield",
+        "region": "USA"
+    },
+    {
+        "id": "54",
+        "market": "Central Illinois",
+        "region": "USA"
+    },
+    {
+        "id": "55",
+        "market": "Northern New Jersey",
+        "region": "USA"
+    },
+    {
+        "id": "121",
+        "market": "South Carolina",
+        "region": "USA"
+    },
+    {
+        "id": "122",
+        "market": "South Texas",
+        "region": "USA"
+    },
+    {
+        "id": "123",
+        "market": "Beaumont",
+        "region": "USA"
+    },
+    {
+        "id": "124",
+        "market": "Connecticut",
+        "region": "USA"
+    },
+    {
+        "id": "125",
+        "market": "Oklahoma",
+        "region": "USA"
+    },
+    {
+        "id": "202",
+        "market": "London (UK)",
+        "region": "Europe"
+    },
+    {
+        "id": "203",
+        "market": "South (UK)",
+        "region": "Europe"
+    },
+    {
+        "id": "204",
+        "market": "Midlands and Central (UK)",
+        "region": "Europe"
+    },
+    {
+        "id": "205",
+        "market": "Wales and North West (UK)",
+        "region": "Europe"
+    },
+    {
+        "id": "206",
+        "market": "North and North East (UK)",
+        "region": "Europe"
+    },
+    {
+        "id": "207",
+        "market": "Scotland",
+        "region": "Europe"
+    },
+    {
+        "id": "208",
+        "market": "Ireland",
+        "region": "Europe"
+    },
+    {
+        "id": "209",
+        "market": "Northern Ireland",
+        "region": "Europe"
+    },
+    {
+        "id": "210",
+        "market": "Germany",
+        "region": "Europe"
+    },
+    {
+        "id": "211",
+        "market": "Netherlands",
+        "region": "Europe"
+    },
+    {
+        "id": "500",
+        "market": "Sweden",
+        "region": "Europe"
+    },
+    {
+        "id": "501",
+        "market": "Spain",
+        "region": "Europe"
+    },
+    {
+        "id": "502",
+        "market": "Barcelona (Spain)",
+        "region": "Europe"
+    },
+    {
+        "id": "503",
+        "market": "Madrid (Spain)",
+        "region": "Europe"
+    },
+    {
+        "id": "600",
+        "market": "Turkey",
+        "region": "Europe"
+    },
+    {
+        "id": "302",
+        "market": "New South Wales\/Australian Capital Territory",
+        "region": "Australia and New Zealand"
+    },
+    {
+        "id": "303",
+        "market": "Queensland",
+        "region": "Australia and New Zealand"
+    },
+    {
+        "id": "304",
+        "market": "Western Australi",
+        "region": "Australia and New Zealand"
+    },
+    {
+        "id": "305",
+        "market": "Victoria\/Tasmania",
+        "region": "Australia and New Zealand"
+    },
+    {
+        "id": "306",
+        "market": "Western Australia",
+        "region": "Australia and New Zealand"
+    },
+    {
+        "id": "351",
+        "market": "North Island",
+        "region": "Australia and New Zealand"
+    },
+    {
+        "id": "352",
+        "market": "South Island",
+        "region": "Australia and New Zealand"
+    },
+    {
+        "id": "402",
+        "market": "Mexico City and Metropolitan Area",
+        "region": "Mexico"
+    },
+    {
+        "id": "403",
+        "market": "Monterrey",
+        "region": "Mexico"
+    },
+    {
+        "id": "404",
+        "market": "Guadalajara",
+        "region": "Mexico"
+    }
+]
