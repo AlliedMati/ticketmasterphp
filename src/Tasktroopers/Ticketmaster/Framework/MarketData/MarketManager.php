@@ -37,7 +37,7 @@ class MarketManager
     }
 
     /**
-     * Gets a single maret record based on the provided market id
+     * Gets a single market record based on the provided market id
      *
      * @param int $id
      * @return Tasktroopers\Ticketmaster\Framework\MarketData\Market

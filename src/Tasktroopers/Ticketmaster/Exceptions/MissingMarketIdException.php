@@ -9,7 +9,7 @@ class MissingMarketIdException extends \RuntimeException
     /**
      * Provides hard coded error message with the unknown market id
      *
-     * @param string $marketId
+     * @param int $marketId
      * @param \Exception $previous
      */
     public function __construct(int $marketId, \Exception $previous = null)
